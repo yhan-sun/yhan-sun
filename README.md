@@ -58,10 +58,19 @@
 
 ---
 
+### 🤝 参与的项目与开源贡献 (Collaborations & Contributions)
+
+我积极参与开源社区，并与优秀的开发者们一同维护和改进以下项目：
+
+* **[项目名称 / Project-Name](https://github.com/owner/project)** - 简短的开源项目介绍，说明该项目的主要用途。在其中我主要负责了 `xxx模块` 的开发与性能优化。
+* **[项目名称 / Another-Project](https://github.com/owner/project2)** - 简短的项目介绍。贡献了 `xxx特性/Bug修复`，并参与日常的代码评审。
+
+---
+
 ### 📊 我的 GitHub 统计 (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yhan-sun&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yhan-sun&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhan-sun&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="48%" />
 </p>
