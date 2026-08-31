@@ -34,9 +34,9 @@
 ### 📊 我的 GitHub 统计 (GitHub Analytics)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yhan-sun&theme=github_dark" alt="GitHub Stats" width="48%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yhan-sun&theme=github_dark" alt="Top Languages" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
