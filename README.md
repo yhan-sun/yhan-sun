@@ -71,9 +71,9 @@
 ### 📊 我的 GitHub 统计 (GitHub Analytics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yhan-sun&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yhan-sun&theme=github_dark" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhan-sun&layout=compact&langs_count=8&theme=nightowl&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yhan-sun&theme=github_dark" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
